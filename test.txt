@@ -1,3 +1,7 @@
 aptanaStudent
 12565753718468
 gjasgdhjsagfkasf
+
+Git is a distributed version control system.
+Git is free software.
+1232467567
