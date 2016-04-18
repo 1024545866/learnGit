@@ -34,3 +34,28 @@ localhost 拒绝了我们的连接请求。
 Git is a distributed version control system.
 Git is free software.
 1232467567
+
+*************************************************************
+
+Add
+ID	Name	NiceName	Age
+29	xiaodidi	xxxd	23	详细	编辑	删除
+30	demo1	demo1	23	详细	编辑	删除
+
+
+无法访问此网站
+
+localhost 拒绝了我们的连接请求。
+
+Git is a distributed version control system.
+Git is free software.
+1232467567
+
+
+无法访问此网站
+
+localhost 拒绝了我们的连接请求。
+
+Git is a distributed version control system.
+Git is free software.
+1232467567
